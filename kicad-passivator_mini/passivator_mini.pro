@@ -1,4 +1,4 @@
-update=07/05/2015 12:04:46
+update=20/06/2016 09:59:35
 version=1
 last_client=kicad
 [cvpcb]
@@ -25,14 +25,15 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../Kicad
 [eeschema/libraries]
-LibName1=D:/Dropbox/Dropbox/electronics/Github/Kicad/USER
-LibName2=device
-LibName3=conn
-LibName4=analog_switches
-LibName5=power
+LibName1=passivator_mini-rescue
+LibName2=D:/Dropbox/Dropbox/electronics/Github/Kicad/USER
+LibName3=device
+LibName4=conn
+LibName5=analog_switches
+LibName6=power
+[general]
+version=1
